@@ -1,0 +1,6 @@
+{
+  "name": "HOROHORO (호로호로) - K-Folk Wellness Walking",
+  "description": "운세를 트리거로 한국의 신화와 로컬 설화 속 행운의 장소를 걷는 K-Folk Wellness 로컬 관광 플랫폼. 산책하고 복 받아가세요!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
